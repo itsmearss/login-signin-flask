@@ -1,0 +1,7 @@
+flask
+flask_restx
+flask_cors
+flas_sqlalchemy
+flask_mail
+argon2-cffi
+pyjwt
